@@ -1,0 +1,29 @@
+version conrol system
+
+easily recover file
+who introduced an issue and when
+roll back to previous working state
+
+local vcs   (used db to keep track of files)--files saved in hard disk offline
+
+centalized vcs( server is owned ,files pulled and after change push the files)  problem of server damage.
+
+Distributed vcs:everyone has complete backup of their files.
+
+git is a distributed vcs:
+
+how git created;
+
+git is software
+
+github is hosting site
+
+features of git: 
+
+
+
+
+
+git bash is the terminal provided by git application
+
+
